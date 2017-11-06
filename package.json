@@ -1,0 +1,23 @@
+{
+  "name": "vue-resource-cache",
+  "version": "0.0.1",
+  "description": "Cache get http request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elevenkey/vue-resource-cache.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-resource"
+  ],
+  "author": "csunzhen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elevenkey/vue-resource-cache/issues"
+  },
+  "homepage": "https://github.com/elevenkey/vue-resource-cache#readme"
+}
